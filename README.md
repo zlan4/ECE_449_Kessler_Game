@@ -1,5 +1,7 @@
 # Kessler
 
+ECE 449 (Intelligent Systems Engineering) Group Project - We built an agent to play the Kessler game, an asteroid-smasher game. We used machine learning algorithms such as fuzzy inferential systems to enable the agent to make decisions about the degree of different control outputs of the ship, such as its turn rate, speed, and direction, and whether to shoot or drop a mine based on threats such as asteroid size, proximity, and speed. We further optimized our agent by implementing a genetic algorithm, allowing it to successfully outperform the default player. The script for our agent can be found in the file group15_controller.py
+
 ## Getting started
 
 Kessler is a simulation environment loosely modeled after our internal project PsiBee and the external project [Fuzzy Asteroids](https://github.com/xfuzzycomp/FuzzyAsteroids).
